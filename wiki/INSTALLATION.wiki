@@ -19,4 +19,4 @@ Also ensure that a FTP service is installed. You can use vsftpd:
 
 {{{sudo apt-get install vsftpd }}}
 =Third Party=
-Another server could be needed to host malicious files (see ./pdf/ and ./virs/ directories). You can also use online resources.
+Another server could be needed to host malicious files (see ./pdf/ directory). You can also use online resources.
